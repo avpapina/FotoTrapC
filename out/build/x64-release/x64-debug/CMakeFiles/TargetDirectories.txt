@@ -1,0 +1,5 @@
+C:/Users/avpap/source/repos/FotoTrapC/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/avpap/source/repos/FotoTrapC/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/avpap/source/repos/FotoTrapC/out/build/x64-debug/FotoTrapC/CMakeFiles/FotoTrapC.dir
+C:/Users/avpap/source/repos/FotoTrapC/out/build/x64-debug/FotoTrapC/CMakeFiles/edit_cache.dir
+C:/Users/avpap/source/repos/FotoTrapC/out/build/x64-debug/FotoTrapC/CMakeFiles/rebuild_cache.dir
