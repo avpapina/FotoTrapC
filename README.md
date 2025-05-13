@@ -57,9 +57,9 @@
 - **Путь к данным:** C:/Users/avpap/source/repos/FotoTrapC/FotoTrapC/datas/
 - **Метод распознавания:** Каскад Хаара (frontalcatface_extended.xml)
 - **Параметры обработки:**
-  - Масштаб: 1.1
-  - Минимальные соседи: 3
-  - Минимальный размер: 30x30 px
+  - scaleFactor: 1.1
+  - minNeighbors: 3
+  - minSize: 30x30 px
 - **Сборка:**
   - C++20
   - CMake 3.8+
